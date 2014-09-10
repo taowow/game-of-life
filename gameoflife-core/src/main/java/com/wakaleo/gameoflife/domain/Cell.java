@@ -1,3 +1,4 @@
+This is a foo test to break the app.
 package com.wakaleo.gameoflife.domain;
 
 public enum Cell {
